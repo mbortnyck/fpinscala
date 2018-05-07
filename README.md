@@ -8,4 +8,6 @@
 
 ### Chapter 3: Functional Data Structures
 **3.2** - [tail.scala](ch3/tail.scala)<br>
+**3.3** - [setHead.scala](ch3/setHead.scala)<br>
+**3.4** - [drop.scala](ch3/drop.scala)<br>
 
