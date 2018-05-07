@@ -10,4 +10,5 @@
 **3.2** - [tail.scala](ch3/tail.scala)<br>
 **3.3** - [setHead.scala](ch3/setHead.scala)<br>
 **3.4** - [drop.scala](ch3/drop.scala)<br>
-
+**3.5** - [dropWhile.scala](ch3/dropWhile.scala)<br>
+**3.6** - [init.scala](ch3/init.scala)<br>
