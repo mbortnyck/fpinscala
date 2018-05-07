@@ -5,3 +5,7 @@
 **2.3** - [curry.scala](ch2/curry.scala)<br>
 **2.4** - [uncurry.scala](ch2/uncurry.scala)<br>
 **2.5** - [compose.scala](ch2/compose.scala)<br>
+
+### Chapter 3: Functional Data Structures
+**3.2** - [tail.scala](ch3/tail.scala)<br>
+
