@@ -23,6 +23,6 @@
 **3.19** - [fpFilter](ch3/19_fpFilter.scala)<br>
 **3.20** - [fpFlatMap](ch3/20_fpFlatMap.scala)<br>
 **3.21** - [fpFlatMapFilter](ch3/21_fpFlatMapFilter.scala)<br>
-**3.22** - [zipAdd](ch3/zipAdd.scala)<br>
-**3.23** - [zipWith](ch3/zipWith.scala)<br>
+**3.22** - [zipAdd](ch3/22_zipAdd.scala)<br>
+**3.23** - [zipWith](ch3/23_zipWith.scala)<br>
 **3.24** - [hasSubsequence](ch3/24_hasSubsequence.scala)<br>
