@@ -18,3 +18,4 @@
 **3.14** - [foldAppend](ch3/foldAppend.scala)<br>
 **3.15** - [foldCat](ch3/foldCat.scala)<br>
 **3.16** - [plusOne](ch3/plusOne.scala)<br>
+**3.17** - [dToString](ch3/dToString.scala)<br>
