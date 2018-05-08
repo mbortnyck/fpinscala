@@ -26,3 +26,5 @@
 **3.22** - [zipAdd](ch3/22_zipAdd.scala)<br>
 **3.23** - [zipWith](ch3/23_zipWith.scala)<br>
 **3.24** - [hasSubsequence](ch3/24_hasSubsequence.scala)<br>
+**3.25** - [fpTreeSize](ch3/fpTreeSize.scala)<br>
+
