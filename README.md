@@ -28,5 +28,4 @@
 **3.24** - [hasSubsequence](ch3/24_hasSubsequence.scala)<br>
 **3.25** - [fpTreeSize](ch3/25_fpTreeSize.scala)<br>
 **3.26** - [fpTreeMax](ch3/26_fpTreeMax.scala)<br>
-
-
+**3.27** - [fpTreeDepth](ch3/27_fpTreeDepth.scala)<br>
