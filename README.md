@@ -15,3 +15,4 @@
 **3.9** - [length.scala](ch3/length.scala)<br>
 **3.11** - [sumLeft.scala](ch3/sumLeft.scala), [productLeft.scala](ch3/productLeft.scala), [lengthLeft.scala](ch3/lengthLeft.scala)<br>
 **3.12** - [reverseFold.scala](ch3/reverseFold.scala)<br>
+**3.14** - [foldAppend.scala](ch3/foldAppend.scala)<br>
