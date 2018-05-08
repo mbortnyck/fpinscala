@@ -22,3 +22,4 @@
 **3.18** - [fpMap](ch3/fpMap.scala)<br>
 **3.19** - [fpFilter](ch3/fpFilter.scala)<br>
 **3.20** - [fpFlatMap](ch3/fpFlatMap.scala)<br>
+**3.24** - [hasSubsequence](ch3/hasSubsequence.scala)<br>
