@@ -13,4 +13,4 @@
 **3.5** - [dropWhile.scala](ch3/dropWhile.scala)<br>
 **3.6** - [init.scala](ch3/init.scala)<br>
 **3.9** - [length.scala](ch3/length.scala)<br>
-**3.11** - [sumLeft.scala](ch3/sumLeft.scala), [productLeft.scala](ch3/productLeft.scala), [lenghLeft.scala](ch3/lenghLeft.scala)<br>
+**3.11** - [sumLeft.scala](ch3/sumLeft.scala), [productLeft.scala](ch3/productLeft.scala), [lengthLeft.scala](ch3/lengthLeft.scala)<br>
