@@ -17,3 +17,4 @@
 **3.12** - [reverseFold.scala](ch3/reverseFold.scala)<br>
 **3.14** - [foldAppend.scala](ch3/foldAppend.scala)<br>
 **3.15** - [foldCat.scala](ch3/foldCat.scala)<br>
+**3.16** - [plusOne.scala](ch3/plusOne.scala)<br>
