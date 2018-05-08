@@ -1,3 +1,3 @@
-def fpMap[A](l: List[A], f: A => A): List[A] = {
-  l.foldLeft(List[A]())((i, c) => i ++ List(f(c)))
+def fpMap[A, B](l: List[A])(f: A => B): List[B] = {
+  l.foldLeft(List[B]())((i, c) => i ++ List(f(c)))
 }
