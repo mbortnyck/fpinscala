@@ -29,3 +29,4 @@
 **3.25** - [fpTreeSize](ch3/25_fpTreeSize.scala)<br>
 **3.26** - [fpTreeMax](ch3/26_fpTreeMax.scala)<br>
 **3.27** - [fpTreeDepth](ch3/27_fpTreeDepth.scala)<br>
+**3.28** - [fpTreeMap](ch3/28_fpTreeMap.scala)<br>
